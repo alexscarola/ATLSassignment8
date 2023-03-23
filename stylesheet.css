@@ -57,6 +57,7 @@ nav {
   height: 50px;
   background-color: #ff80ff;
   display: flex;
+  width: 100%;
   margin-bottom: 10px;
 }
 
@@ -86,7 +87,6 @@ nav form {
   display: flex;
   align-items: center;
   height: 100%;
-  width: 100%;
   padding: 0 2em;
 }
 
