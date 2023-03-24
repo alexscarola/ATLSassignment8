@@ -83,7 +83,7 @@ header img {
 
 nav {
   height: 50px;
-  //flex: 100%;
+  flex: 100%;
   display: flex;
 }
 
